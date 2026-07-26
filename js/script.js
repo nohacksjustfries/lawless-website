@@ -1,0 +1,1 @@
+console.log("Lawless SMP Website Loaded");
